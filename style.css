@@ -52,7 +52,8 @@ body {
 }
 
 .price del {
-    font-family: "fraunces", serif;
+    font-family: "montserrat", sans-serif;
+    font-size: 12px;
     color: hsl(288, 12%, 48%);
     margin-left: 20px;
     vertical-align: super;
@@ -71,5 +72,5 @@ body {
 }
 
 .btn-icon {
-    padding-right: 15px;
+    padding-right: 15px
 }
